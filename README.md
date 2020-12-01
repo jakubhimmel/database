@@ -48,5 +48,6 @@ source: https://medium.com/oceanize-geeks/concepts-of-database-architecture-dfdc
 ## Database learning sources
 https://www.1keydata.com/
 https://db.grussell.org/
+https://www.oracletutorial.com/getting-started/
 
 
